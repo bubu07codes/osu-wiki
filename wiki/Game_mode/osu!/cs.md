@@ -1,8 +1,3 @@
----
-needs_cleanup: false
----
-
-
 # osu! (herní režim)
 
 *Pro jiné použití viz [osu! (význam)](/wiki/Disambiguation/osu!).*
